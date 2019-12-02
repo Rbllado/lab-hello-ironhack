@@ -1,0 +1,36 @@
+/* body{
+    background-color: red;
+} */
+
+.header-nav{
+    background-color: #1F2635;
+    color: white;
+    height: 500px;
+    padding: 30px;
+}
+h1{
+    font-size: 80px;
+}
+
+.title{
+    margin-top: 40px;
+}
+
+button{
+    height: 60px;
+    width: 120px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    display: flex;
+    padding: 30px;
+    justify-content: space-around;
+}
